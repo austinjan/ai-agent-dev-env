@@ -43,7 +43,7 @@ The goal is to ensure **consistent runtime behavior**, predictable debugging, an
 | gh (GitHub CLI) | ⚠️ | ✔️ | Primary Git operations |
 
 
-## Some issues
+## Truble Shooting
 - WSL 要安裝 wslu 來開啟 windows 的 browser 不然要開瀏覽器的驗證會卡住
 ```bash
 $ sudo apt install wslu
